@@ -5,7 +5,7 @@
 <h2>👨‍💻 Resumes:</h2>
 
 - <b>Technology Resume (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]([View My Resume](https://github.com/mzylberberg/mzylberberg/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))
  
 -  <b>Leadership Resume (AlgoExpert)</b>
    - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
