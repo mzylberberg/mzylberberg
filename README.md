@@ -5,10 +5,10 @@
 <h2>👨‍💻 Resumes:</h2>
 
 - <b>Technology Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))</b>
-  - [Praciting DS & Algos in Python]([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))
+  - 
  
--  <b>Leadership Resume (AlgoExpert)</b>
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+-  <b>Leadership Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Leadership_Resume.pdf))</b>
+   - 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
