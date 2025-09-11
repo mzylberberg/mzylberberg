@@ -14,23 +14,25 @@
 
 <h2>📺 GRC Projects </h2>
 
-<h3>📁 Case Study</h3>
+<h3>📁 Case Studies</h3>
 
-- [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/CASE_STUDY%201%20-%20Lets%20Make%20it%20Personal.docx
-)
-- [Case Study 2](https://github.com/mzylberberg/mzylberberg/blob/main/
-- [Case Study 3](https://github.com/mzylberberg/mzylberberg/blob/main/
+### [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/CASE_STUDY%201%20-%20Lets%20Make%20it%20Personal.docx)
+
+### Case Study 2 - ERM in Action
+
+#### 📄 Assignment
+- [CaseStudy Exercise2_ERM in Action (PDF)](https://github.com/mzylberberg/mzylberberg/blob/main/CaseStudy%20Exercise2_ERM%20in%20Action.pdf)
+
+#### ✅ Submission
+- [CaseStudy Exercise2_ERM in Action_Submission](https://github.com/mzylberberg/mzylberberg/blob/main/CaseStudy%20Exercise2_ERM%20in%20Action_Submission)
+
+### [Case Study 3](https://github.com/mzylberberg/mzylberberg/blob/main/Unit%202%20-%20Case%20scenarios_Qs_Zylberberg.docx)
+
 
 <h3>🎤 Presentation</h3>
-- [Agriculture Industry Mock Risk Assessment](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture%20Industry%20Mock%20Risk%20Assessment.pptx
-)
+- [Agriculture Industry Mock Risk Assessment](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture%20Industry%20Mock%20Risk%20Assessment.pptx)
 
-- [Agriculuture Industry Mock Risk Assessment](https://www.albany.edu/graduate/news/2024-zero-tech-thriving-without-technical-background)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- 
+
 
 
 <h2>📺 Articles & Important Links </h2>
