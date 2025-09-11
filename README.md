@@ -20,7 +20,7 @@
 
 ### Case Study 2 - ERM in Action
 
-#### 📄 Assignment
+#### 📄 Assignment Instructions
 - [CaseStudy Exercise2_ERM in Action (PDF)](https://github.com/mzylberberg/mzylberberg/blob/main/CaseStudy%20Exercise2_ERM%20in%20Action.pdf)
 
 #### ✅ Submission
@@ -38,10 +38,9 @@
 <h2>📺 Articles & Important Links </h2>
 
 - [Zero-to-Tech: Thriving Without a Technicial Background](https://www.albany.edu/graduate/news/2024-zero-tech-thriving-without-technical-background)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [University at Albany Inclusion, Equity, & Engagement](https://www.albany.edu/business/inclusion-equity-and-engagement)
+- [Alumni Association of Scholarship Winners](https://www.jibei.org/education-training/educational-and-cultural-programs/)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
