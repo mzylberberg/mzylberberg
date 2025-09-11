@@ -16,7 +16,7 @@
 
 <h3>📁 Case Study</h3>
 
-- [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/CASE_STUDY 1 - Lets Make it Personal.docx)
+- [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/CASE_STUDY_1_-_Lets_Make_it_Personal.docx)
 - [Case Study 2](https://github.com/mzylberberg/mzylberberg/blob/main/
 - [Case Study 3](https://github.com/mzylberberg/mzylberberg/blob/main/
 
