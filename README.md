@@ -16,12 +16,12 @@
 
 <h3>📁 Case Study</h3>
 
-- [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/
+- [Case Study 1](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture Industry Mock Risk Assessment.pptx)
 - [Case Study 2](https://github.com/mzylberberg/mzylberberg/blob/main/
 - [Case Study 3](https://github.com/mzylberberg/mzylberberg/blob/main/
 
 <h3>🎤 Presentation</h3>
-- [Agriculture Industry Mock Risk Assessment](https://www.albany.edu/graduate/news/2024-zero-tech-thriving-without-technical-background)
+- [Agriculture Industry Mock Risk Assessment](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture Industry Mock Risk Assessment.pptx)
 
 - [Agriculuture Industry Mock Risk Assessment](https://www.albany.edu/graduate/news/2024-zero-tech-thriving-without-technical-background)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
