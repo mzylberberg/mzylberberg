@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Resumes:</h2>
 
-- <b>Technology Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))</b>
+- <b>Information Technology Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))</b>
   - 
  
 -  <b>Leadership Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Leadership_Resume.pdf))</b>
