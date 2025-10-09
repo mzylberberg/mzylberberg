@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Mya! 
   
-  <a href="https://www.linkedin.com/in/mya-zylberberg/">Aspiring Cybersecurity Professional</a>
+  <a href="https://www.linkedin.com/in/mya-zylberberg/">Aspiring Technology Professional</a>
 
 <h2>🎓 Resumes:</h2>
 
