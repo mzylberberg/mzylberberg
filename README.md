@@ -5,7 +5,7 @@
 
 <h2>🎓 Resume:</h2>
 
-- <b>Technology Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya_Zylberberg_Junior_IT_Governance_Analyst_Resume.pdf))</b>
+- <b>Technology Resume ([View My Resume](https://github.com/mzylberberg/mzylberberg/blob/main/Mya Zylberberg Resume.pdf))</b>
 
 
 &nbsp;
