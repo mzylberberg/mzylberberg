@@ -48,8 +48,10 @@
 
 <h2> 📃 Certifications </h2>  
 
-- [Belkasoft Android Forensics](https://github.com/mzylberberg/mzylberberg/blob/main/Outstanding%20Academic%20Award.jpg)
-- [Contracting Fundamentals](https://github.com/mzylberberg/mzylberberg/blob/main/Contracting%20Fundamentals%20-%20Mya%20Zylberberg.pdf)
+- [CompTIA Security+] (https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Outstanding%20Academic%20Award.jpg)
+- [Belkasoft Android Forensics](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Outstanding%20Academic%20Award.jpg)
+- [Contracting Fundamentals](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Contracting%20Fundamentals%20-%20Mya%20Zylberberg.pdf)
+  
 
 &nbsp;
 
