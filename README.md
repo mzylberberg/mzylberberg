@@ -1,9 +1,9 @@
 
 <h1>Hi, I'm Mya! 
   
-  <a href="https://www.linkedin.com/in/mya-zylberberg/">Aspiring Technology Professional</a>
+  <a href="https://www.linkedin.com/in/mya-zylberberg/">Driven Technology Professional</a>
 
-<h2>🎓 Resume:</h2>
+<h2>🎓 Resume</h2>
 
 - <b> [Technology Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya%20Zylberberg%20Resume.pdf) </b>
 
