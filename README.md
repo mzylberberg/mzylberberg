@@ -13,7 +13,7 @@
 <h2> 📃 Certifications </h2>  
 
 - [CompTIA Security+](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/CompTIA%20Security+%20ce%20certificate.pdf)
-- [Belkasoft Android Forensics](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Outstanding%20Academic%20Award.jpg)
+- [Belkasoft Android Forensics](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Belkasoft%20Completion%20-%20Mya%20Zylberberg%20-%202024-03-26.pdf)
 - [Contracting Fundamentals](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Contracting%20Fundamentals%20-%20Mya%20Zylberberg.pdf)
   
 
@@ -29,10 +29,10 @@
 
 <h2> ✨ Honors & Awards </h2>  
 
-- [Outstanding Academic Award (4.0)](https://github.com/mzylberberg/mzylberberg/blob/main/Outstanding%20Academic%20Award.jpg)
-- [Diversity, Equity, & Inclusion Appreciation Award](https://github.com/mzylberberg/mzylberberg/blob/main/Certificate%20of%20Appreciation%20DEI.jpg)
-- [Dr.Seth Spellman Jr Award](https://github.com/mzylberberg/mzylberberg/blob/main/Spellman%20Scholar.jpg)
-- [STEP Summer Institute Certificate](https://github.com/mzylberberg/mzylberberg/blob/main/STEP%20Summer%20Institute%20Certificate.jpg)
+- [Outstanding Academic Award (4.0) - 2024](https://github.com/mzylberberg/mzylberberg/blob/main/honors/Outstanding%20Academic%20Award.jpg)
+- [Diversity, Equity, & Inclusion Appreciation Award - 2024](https://github.com/mzylberberg/mzylberberg/blob/main/honors/Certificate%20of%20Appreciation%20DEI.jpg)
+- [Dr.Seth Spellman Jr Award - 2023](https://github.com/mzylberberg/mzylberberg/blob/main/honors/Spellman%20Scholar.jpg)
+- [STEP Summer Institute Certificate - 2023](https://github.com/mzylberberg/mzylberberg/blob/main/honors/STEP%20Summer%20Institute%20Certificate.jpg)
 - [JIB 73rd Annual Scholarship Award](https://local3ibew.org/news/73rd-annual-jib-scholarship-breakfast)
 
 &nbsp;
