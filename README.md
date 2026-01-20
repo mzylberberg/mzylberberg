@@ -42,11 +42,6 @@
 
 &nbsp;
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mzylberberg&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mzylberberg&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mzylberberg&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -59,6 +54,11 @@
 
 
 <!--
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mzylberberg&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mzylberberg&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mzylberberg&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h2>👨‍💻 GRC Projects </h2>
 
 <h3>📁 Case Studies</h3>
