@@ -41,7 +41,7 @@
 [<img align="left" alt="MyaZylberberg| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/mya-zylberberg
+[linkedin]: https://linkedin.com/in/myazylberberg
 
 
 
