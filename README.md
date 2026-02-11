@@ -19,6 +19,15 @@
 
 &nbsp;
 
+<h2> Featured Projects </h2>
+
+### 🔐 MFA Enforcement — Technical Content & Governance-Aware Documentation
+A mock technical content project modeling policy-driven MFA enforcement, risk-adaptive authentication, and stakeholder-centered access decisions.
+
+👉 View project: https://github.com/mzylberberg/mfa-enforcement-technical-content
+
+&nbsp;
+
 <h2>📎 Articles & Important Links </h2>
 
 - [Zero-to-Tech: Thriving Without a Technicial Background](https://www.albany.edu/graduate/news/2024-zero-tech-thriving-without-technical-background)
