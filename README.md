@@ -24,7 +24,7 @@
 ### 🔐 MFA Enforcement — Technical Content & Governance-Aware Documentation
 A mock technical content project modeling policy-driven MFA enforcement, risk-adaptive authentication, and stakeholder-centered access decisions.
 
-👉 View project: https://github.com/mzylberberg/mfa-enforcement-technical-content
+👉 View project [here](https://github.com/mzylberberg/mfa-enforcement-technical-content):
 
 &nbsp;
 
