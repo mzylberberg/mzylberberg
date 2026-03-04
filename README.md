@@ -15,7 +15,9 @@
 - [CompTIA Security+](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/CompTIA%20Security+%20ce%20certificate.pdf)
 - [Belkasoft Android Forensics](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Belkasoft%20Completion%20-%20Mya%20Zylberberg%20-%202024-03-26.pdf)
 - [Contracting Fundamentals](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/Contracting%20Fundamentals%20-%20Mya%20Zylberberg.pdf)
-  
+- [IBM Design Thinking Practioner](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/enterprise-design-thinking-practitioner.png)
+- [Watson Analytics Level 1](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/watson-analytics-level-1.png)
+- [Working in a Digital World](https://github.com/mzylberberg/mzylberberg/blob/main/certificates/working-in-a-digital-world-professional-skills.png)
 
 &nbsp;
 
