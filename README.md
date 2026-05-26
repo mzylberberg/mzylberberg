@@ -6,7 +6,7 @@
 
 <h2>🎓 Resume</h2>
 
-- [Technology Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya%20Zylberberg%20Resume.pdf)
+- [Technology Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya%20Zylberberg%20Compliance%20General.pdf)
 
 
 &nbsp;
