@@ -33,7 +33,7 @@ A mock risk assessment on a ficitious agritculture company where I audit their s
 
 👉 View project [here](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture%20Industry%20Mock%20Risk%20Assessment.pdf):
 
-## Accessible AI Resource Helper
+### Accessible AI Resource Helper
 👉 View project [here](https://github.com/mzylberberg/accessible-ai-resource-helper):
 &nbsp;
 
