@@ -32,6 +32,9 @@ A mock technical content project modeling policy-driven MFA enforcement, risk-ad
 A mock risk assessment on a ficitious agritculture company where I audit their security profile, cybesecurity challenges, impacts from common threats, and target benchmarks
 
 👉 View project [here](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture%20Industry%20Mock%20Risk%20Assessment.pdf):
+
+## Accessible AI Resource Helper
+👉 View project [here](https://github.com/mzylberberg/accessible-ai-resource-helper):
 &nbsp;
 
 <h2>📎 Articles & Important Links </h2>
