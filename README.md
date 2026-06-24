@@ -6,7 +6,7 @@
 
 <h2>🎓 Resume</h2>
 
-- [Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya%20Zylberberg%20Compliance%20General.pdf)
+- [Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya%20Zylberberg%20Cybersecurity%20General.docx).
 
 
 &nbsp;
@@ -34,6 +34,7 @@ A mock risk assessment on a ficitious agritculture company where I audit their s
 👉 View project [here](https://github.com/mzylberberg/mzylberberg/blob/main/Agriculture%20Industry%20Mock%20Risk%20Assessment.pdf):
 
 ### Accessible AI Resource Helper
+A mock AI resource helper that utilizes 
 👉 View project [here](https://github.com/mzylberberg/accessible-ai-resource-helper):
 &nbsp;
 
