@@ -6,7 +6,7 @@
 
 <h2>🎓 Resume</h2>
 
-- [Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya_Zylberberg_Cybersecurity_General.pdf).
+- [Resume](https://github.com/mzylberberg/mzylberberg/blob/main/resumes/Mya_Zylberberg_Cybersecurity_General.pdf)
 
 
 &nbsp;
