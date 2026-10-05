@@ -23,7 +23,10 @@
 
 <h2> Featured Projects </h2>
 
-### 💻 Marketing to Product - 
+### 💻 Marketing to Product -
+Transforming a university VISTA website from a primarily marketing-focused resource into a user-centered digital product supporting the VISTA recruitment journey.
+
+👉 View Project & Demo Walkthrough [here](https://github.com/mzylberberg/siena-vista-website-product-optimization)
 
 
 ### 🔐 MFA Enforcement — Technical Content & Governance-Aware Documentation
