@@ -23,8 +23,22 @@
 
 <h2> Featured Projects </h2>
 
-### 💻 Marketing to Product -
-Transforming a university VISTA website from a primarily marketing-focused resource into a user-centered digital product supporting the VISTA recruitment journey.
+### 💻 Siena VISTA Website — Marketing → Product
+
+Transformed a university VISTA website from a primarily
+marketing-focused resource into a user-centered digital product.
+
+**Product work included:**
+- User research
+- Pain-point analysis
+- Content strategy
+- SEO optimization
+- Accessibility auditing
+- Website governance
+- KPI development
+
+👉 [View Case Study](...)
+🎥 [Watch Product Walkthrough](...)
 
 👉 View Project & Demo Walkthrough [here](https://github.com/mzylberberg/siena-vista-website-product-optimization)
 
