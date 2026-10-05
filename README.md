@@ -23,6 +23,9 @@
 
 <h2> Featured Projects </h2>
 
+### 💻 Marketing to Product - 
+
+
 ### 🔐 MFA Enforcement — Technical Content & Governance-Aware Documentation
 A mock technical content project modeling policy-driven MFA enforcement, risk-adaptive authentication, and stakeholder-centered access decisions.
 
