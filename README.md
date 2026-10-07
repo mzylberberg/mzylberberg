@@ -37,10 +37,8 @@ marketing-focused resource into a user-centered digital product.
 - Website governance
 - KPI development
 
-👉 [View Case Study](...)
-🎥 [Watch Product Walkthrough](...)
-
-👉 View Project & Demo Walkthrough [here](https://github.com/mzylberberg/siena-vista-website-product-optimization)
+👉 [View Case Study](https://github.com/mzylberberg/siena-vista-website-product-optimization/tree/main))
+🎥 [Watch Product Walkthrough](https://github.com/mzylberberg/siena-vista-website-product-optimization/blob/main/metrics/website-walkthrough.md).)
 
 
 ### 🔐 MFA Enforcement — Technical Content & Governance-Aware Documentation
